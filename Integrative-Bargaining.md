@@ -48,35 +48,39 @@ Instead of “How can do you get a bigger chunk by taking it away from someone e
 	- *Roloff sometimes does this*
 - The people with the most **physical power** decide
 - **Smartest decide**
+
 #### Lose/Lose: both parties give something up
 - **Compromise**: both parties gain something, but both parties give up something too
 - Rely on **rules**: Determine outcome based on previously set rules…you don’t consider both parties needs nor maximize the outcome.
 - **Side payments** (bribe): something on the side that gives the person a reason to comply.  Neither side is really accepting this because of the terms of the agreement…they are doing it for outside reasons.
 - Bring in **Third Parties**: (*This is ironic because Filley makes part of his living off of this*).  You are losing because you have to pay the third party and you are losing control over the outcome
-Win/Win
-(Another one we will talk about later in mediation)
-Consensus Decision Making: A procedure that leads to integrative decisions
-Adopt a procedure with no voting and endless discussion
-Don’t move ahead until everyone agrees that this is the solution
-NU worked on this model  superficial consensus right before the deadline
-Quakers in Philadelphia
-Implied coercion: you keep talking until everyone else gives up.
 
-Strategy Approach
+#### Win/Win
+- (Another one we will talk about later in mediation)
+- **Consensus Decision Making**: A procedure that leads to integrative decisions
+	- Adopt a procedure with no voting and endless discussion
+	- Don’t move ahead until everyone agrees that this is the solution
+	- NU worked on this model => superficial consensus right before the deadline
+	- Quakers in Philadelphia
+	- Implied coercion: you keep talking until everyone else gives up.
+
+### Strategy Approach
 Pruitt(author) – Logrolling
-General Characteristics of an Integrative agreement
-Yields high joint benefits
-Both get what we want, or more than we expected
-Solution is Non-Obvious
-Essentially the negotiators did not know the outcome in advance
 
-Specific Types of Integrative agreements
-Cost cutting agreement
-Not tangible, its related to reducing loss of face (image)
-2 types
-Precedent Setting
-If an agreement is reached, I could be setting precedent with them or other people in the future
-If its set, it reduces my autonomy
+#### General Characteristics of an Integrative agreement
+- Yields high joint benefits
+	- Both get what we want, or more than we expected
+- Solution is Non-Obvious
+	- Essentially the negotiators did not know the outcome in advance
+
+#### Specific Types of Integrative agreements
+**Cost cutting agreement**
+
+- Not tangible, its related to reducing loss of face (image)
+- 2 types
+	- Precedent Setting
+		- If an agreement is reached, I could be setting precedent with them or other people in the future
+		- If its set, it reduces my autonomy
 How to address this concern
 Private
 Pledge secrecy
