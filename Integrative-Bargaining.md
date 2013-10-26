@@ -178,36 +178,41 @@ Pruitt(author) – Logrolling
 - what do all of these have in common
 	- explicit: tell specific info about priorities, etc.
 		- direct and efficient
-doesn’t address what happens if there is low trust
-what to do if there is low trust
-implied: hinting enough to make inferences
-good if you don’t trust eachother.
-Talk time: spend most of your time talking about the most important issues
-Directed attention: don’t tell them what the priority is, but point out what area of the offer could be improved
-Show enthusiasm when discussing their high priority issue
-Don’t work well if the other person doesn’t see these implied methods
-Contentiousness
-Being argumentative
-Being coercive
-Reduces the likelihood of finding an integrative agreement
-What is the best way to be tough
-Avoid challenging their needs  instead challenge the desirability/workability of their offer
-Signal flexibility while engaging in contentious behavior
-Remind the other side that you want to reach an agreement
-Be contentious at different points in the negotiation
-Phase 1: Tough (high contentiousness)
-Sets an impression
-Phase 2: Problem solvers
-bargaining strategy
-logrolling
-low priority concession making
-sequential strategy: go issue by issue reaching an agreement. You can return to an earlier issue
-takes a long time
-if you can’t reach an agreement on one, you might get hung up talking about one issue
-what if there is low trust? 
-heuristic trial and error: routinely refuse to make concessions on high priority issues and only make concessions on the low priority issues
-works even in low trust situations
-flexible rigidity: flexible as to the means of goal attainment, but rigid as to the goal itself
+		- doesn’t address what happens if there is low trust
+- what to do if there is low trust
+	- implied: hinting enough to make inferences
+		- good if you don’t trust eachother.
+		- Talk time: spend most of your time talking about the most important issues
+		- Directed attention: don’t tell them what the priority is, but point out what area of the offer could be improved
+		- Show enthusiasm when discussing their high priority issue
+		- Don’t work well if the other person doesn’t see these implied methods
+
+**Contentiousness**
+
+- Being argumentative
+- Being coercive
+- Reduces the likelihood of finding an integrative agreement
+- What is the best way to be tough
+	- Avoid challenging their needs => instead challenge the desirability/workability of their offer
+	- Signal flexibility while engaging in contentious behavior
+		- Remind the other side that you want to reach an agreement
+	- Be contentious at different points in the negotiation
+		- Phase 1: Tough (high contentiousness)
+			- Sets an impression
+		- Phase 2: Problem solvers
+
+**bargaining strategy**
+
+- logrolling
+	- low priority concession making
+	- sequential strategy: go issue by issue reaching an agreement. You can return to an earlier issue
+		- takes a long time
+		- if you can’t reach an agreement on one, you might get hung up talking about one issue
+	- what if there is low trust? =>
+- heuristic trial and error: routinely refuse to make concessions on high priority issues and only make concessions on the low priority issues
+	- works even in low trust situations
+
+####*flexible rigidity*: flexible as to the means of goal attainment, but rigid as to the goal itself
 rigid rigidity (here’s what I want and here is the only way to achieve it) is bad because you have trouble reaching a goal
 flexible flexibility is bad because you give up to much and walk away with a bad agreement
 How do I stay rigid to my goals?
