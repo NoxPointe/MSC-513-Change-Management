@@ -10,10 +10,11 @@ Instead of “How can do you get a bigger chunk by taking it away from someone e
 
 #### Accomodative/Smoothing
 - believe that disagreeing with someone means that you don’t like them
+- wants to keep everyone happy
 - people like these people
 - feelers
 
-#### Competitive
+#### Competitive/Forcing
 - belief: every dispute involves one party who is right and one party who is wrong
 	- believe they are always right
 	- it is the obligation of those who are right to change the behavior of those who are wrong
@@ -23,17 +24,21 @@ Instead of “How can do you get a bigger chunk by taking it away from someone e
 #### Compromise
 - Tend to end up splitting the pie
 - belief: problem is that everyone wants too much
+- assumption: answer lies in a middle-ground between positions
+- known as good mediators, though this may not be the case.
 
 #### Avoidant
-- belief: conflict is not solvable
+- belief: conflict is not solvable so best thing to do is avoid it
 - tend to be open minded
 	- impersonal tolerance: live and let live…let everyone do what they want as long as they don’t influence me.
 - *Major Major from Catch 22*
 - introverts
 
 #### Collabrative
+- Problem Solvers
 - I want to get as much as I can get, but I want you to get as much as you can get too
 - look for the creative solution
+- Question of effort and motivation
 - willing to spend a lot of time
 - thinkers, most cognitively complex, extroverts
 
