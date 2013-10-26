@@ -81,26 +81,26 @@ Pruitt(author) – Logrolling
 	- Precedent Setting
 		- If an agreement is reached, I could be setting precedent with them or other people in the future
 		- If its set, it reduces my autonomy
-How to address this concern
-Private
-Pledge secrecy
-Explicitly deny precedent setting (doesn’t always work)
-Joke about the precedent setting
-Look Weak
-Don’t want to feel that the other party feels weak
-How to minimize other party feeling weak
-Support that person’s image of strength
-Attribute compliance to a pro-social motive
-Make the request sound urgent (so big that noone could turn this down and feel weak)
-Make the request sound small
-Make the request sound normative (people routinely grant it
-Make it sound like it is the target’s idea
-Negotiate in private
-Want to be able to facilitate the target’s ability to say yes
-Logrolling
-I have made concessions on issues that don’t mean much to me, in order to get concessions that matter to me
-Grew out of politics
-Must be multiple issues on the table of different priority
+		- How to address this concern
+			- Private
+			- Pledge secrecy
+			- Explicitly deny precedent setting (doesn’t always work)
+			- Joke about the precedent setting
+	- Look Weak
+		- Don’t want to feel that the other party feels weak
+		- How to minimize other party feeling weak
+			- Support that person’s image of strength
+			- Attribute compliance to a pro-social motive
+			- Make the request sound urgent (so big that noone could turn this down and feel weak)
+			- Make the request sound small
+			- Make the request sound normative (people routinely grant it
+			- Make it sound like it is the target’s idea
+			- Negotiate in private
+		- Want to be able to facilitate the target’s ability to say yes
+	- Logrolling
+		- I have made concessions on issues that don’t mean much to me, in order to get concessions that matter to me
+			- Grew out of politics
+		- Must be multiple issues on the table of different priority
 Non Specific Compensation
 Offer a new item to the negotiation
 Often looks like a bribe (which Filley doesn’t like)
