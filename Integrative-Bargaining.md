@@ -45,7 +45,8 @@ Instead of “How can do you get a bigger chunk by taking it away from someone e
 ### Procedures Approach: Filley
 3 Sets of Procedures
 
-#### Win/Lose (fall nicely into distributive bargaining
+#### Win/Lose (fall nicely into distributive bargaining)
+- Most decisions in organizations fall into this.
 - Rely on **Authority** to determine who will win: winner is person with the most power.
 - **Majority Rule**: Sounds more democratic, but unless you have consensus, those not in the majority do not get what they want.
 - **Minority Rule**: A small group makes the decision.
