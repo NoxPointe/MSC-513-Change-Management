@@ -371,35 +371,35 @@ Pruitt(author) – Logrolling
 			- the concession must be specific
 				- One side could offer to destroy a certain weapons system
 			- invite verification
-it must be carried out on time
-These first five steps are to establish objective credibility
-announce another concession, regardless of what they do
-it takes a while to build back trust
-eventually invite, but do not demand reciprocation
-diversify concessions
-don’t make all of your concessions in one military area so that you are not incapable of retaliation
-gauge and match future concessions for risk
-eventually if the other side doesn’t step up, you have to be willing to walk away and now it is their problem
-Never got to test this in a macro sense, but did test it in the lab
-Which steps are most critical?
-public announcement of desire to reduce tension
-specific concessions
-it must be carried out on time
-invite, but don’t demand concessions
-gauging the risk  if you keep making concessions without reciprocation, you make yourself vulnerable
-How do you get the two parties that are escalating together as a third party?
-Intractable Disputes: two parties have dug in and refuse to move
-Coleman: Intractable Dispute flow from the following things:
-They involve values
-Issues are central to the parties (i.e. security, land, etc.)
-Typically involve coercion and losses
-They’ve been going on a long time and the parties are really hurting eachother
-Typically involve support
-Someone is willing to provide the parties support
-Ripeness: is the conflict ripe for resolution?
-A couple of ways this occurs
-Denial of resources (external)
-The ongoing dispute in Ireland
-Internal Dissent
-As long as enough people think that the fight is winnable, it will keep going
-Vietnam
+			- it must be carried out on time
+			- These first five steps are to establish **objective credibility**
+			- announce another concession, regardless of what they do
+				- it takes a while to build back trust
+			- eventually invite, but do not demand reciprocation
+			- diversify concessions
+				- don’t make all of your concessions in one military area so that you are not incapable of retaliation
+			- gauge and match future concessions for risk
+				- => eventually if the other side doesn’t step up, you have to be willing to walk away and now it is their problem
+		- Never got to test this in a macro sense, but did test it in the lab
+			- Which steps are most critical?
+				- public announcement of desire to reduce tension
+				- specific concessions
+				- it must be carried out on time
+				- invite, but don’t demand concessions
+				- gauging the risk => if you keep making concessions without reciprocation, you make yourself vulnerable
+		- How do you get the two parties that are escalating together as a third party?
+			- Intractable Disputes: two parties have dug in and refuse to move
+			- Coleman: Intractable Dispute flow from the following things:
+				- They involve values
+				- Issues are central to the parties (i.e. security, land, etc.)
+				- Typically involve coercion and losses
+					- They’ve been going on a long time and the parties are really hurting eachother
+				- Typically involve support
+					- Someone is willing to provide the parties support
+			- Ripeness: is the conflict ripe for resolution?
+				- A couple of ways this occurs
+					- Denial of resources (external)
+						- The ongoing dispute in Ireland
+					- Internal Dissent
+						- As long as enough people think that the fight is winnable, it will keep going
+						- Vietnam
