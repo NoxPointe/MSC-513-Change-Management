@@ -116,34 +116,42 @@ Pruitt(author) – Logrolling
 - Offer a new item to the negotiation
 	- Often looks like a bribe (which Filley doesn’t like)
 	- Its added after the fact
-			- If we realize we have the same priorities we can add some more stuff
-			- Figuring out what to offer
-				- Must provide adequate compensation (i.e. using Foa and Foa’s)
-	- Bridging
-		- Highly creative solution
-		- Not restricted by rules or convention
-		- What conditions need to be met?
-			- Talking is better than written
-			- Be a creative person
-				- Highly dogmatic people are not very creative (don’t have great senses of humor)
-	- Re-Opener Agreement
-		- Ability to open the agreement later and re-negotiate
-			- Try it and see if it works or you can consider it again later
-		- If you know they can change their mind in the future, you might not want to put enough into the agreement to make it work
-	- Unlinking Agreement: pull issues off the table.
-		- used when there are multiple issues, most of which we can agree on, and one that we will never reach an agreement on and it is preventing us from making progress
-		- ways to do it
-			- Reach a partial agreement: agree to disagree
-				- Takes a high degree of maturity
-			- Fractionazation: take a complex proposal, break it into its parts and look at each part separately
-				- can be hard: hiring a new faculty member from another department
-			- Remove the chance of precedent
-				- Similar to cost-cutting strategy
-			- Remove someone from the decision process (i.e. if they are strongly attached to a problematic issue)
-				- Professor who had trained noone to take his place and decided to retire
-	- Contingent Agreements: you get something if something specific happens in the future
-		- athletes salaries are contingent upon performance.  
-			- I’ll pay you that much if you can prove you are worth that much
+	- If we realize we have the same priorities we can add some more stuff
+	- Figuring out what to offer
+		- Must provide adequate compensation (i.e. using Foa and Foa’s)
+        
+**Bridging**
+
+- Highly creative solution
+- Not restricted by rules or convention
+- What conditions need to be met?
+	- Talking is better than written
+	- Be a creative person
+		- Highly dogmatic people are not very creative (don’t have great senses of humor)
+        
+**Re-Opener Agreement**
+
+- Ability to open the agreement later and re-negotiate
+	- Try it and see if it works or you can consider it again later
+- If you know they can change their mind in the future, you might not want to put enough into the agreement to make it work
+
+**Unlinking Agreement: pull issues off the table.**
+
+- used when there are multiple issues, most of which we can agree on, and one that we will never reach an agreement on and it is preventing us from making progress
+- ways to do it
+	- Reach a partial agreement: agree to disagree
+		- Takes a high degree of maturity
+	- Fractionazation: take a complex proposal, break it into its parts and look at each part separately
+		- can be hard: hiring a new faculty member from another department
+	- Remove the chance of precedent
+		- Similar to cost-cutting strategy
+	- Remove someone from the decision process (i.e. if they are strongly attached to a problematic issue)
+		- Professor who had trained noone to take his place and decided to retire
+        
+**Contingent Agreements: you get something if something specific happens in the future**
+
+- athletes salaries are contingent upon performance.  
+	- I’ll pay you that much if you can prove you are worth that much
 
 **Conditions for integrative bargaining**
 
