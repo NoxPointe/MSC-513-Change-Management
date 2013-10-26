@@ -274,99 +274,103 @@ Pruitt(author) – Logrolling
     
 **Jerky Personalities**
 
-Machiavellians (Christie & Geiss)
-Based on Machiavelli’s The Prince
-maintain emotional control: don’t get angry, but that doesn’t mean that they can’t act like they’re angry
-low ideological commitment: don’t believe in any value system or beliefs.  Can change ideologies easily
-low commitment to social morality: don’t have any sense of ethics… “unencumbered by ethics”
-deceptive
-do NOT suffer from gross psycho-pathology: they’re not psychotic or neurotic
-Assumed that high machs would be more effective in negotiation…sometimes
-Depends what the outcomes look like
-When there is no value to winning…no difference between high and low machs
-As you increase the outcomes, high machs become more successful negotiators than low machs
- high machs don’t exhibit these personality traits unless the outcome is of value to them
-when high machs are paid on commission they are more productive than low machs…if they are paid on a flat rate, low and high machs are equally productive
-Northwestern has a higher percentage of Machiavellians than the rest of the world.
-There are some occupations that attract high mach  attorneys, sales people, and politicians
-If you can show that what you are doing is in their best interest, they will do it
-Once you get them on board, watch them because they might not follow through
-Some studies say we all have some level of machiavellianism
-Dogmatism (Rokeach) 
-Built onto authoritiism
-Close minded, regardless of your political stance
-reject alternative belief systems: believe there is only one way to look at things
-in interviews they will ask questions about beliefs and won’t recommend you if your beliefs are different from theirs
-believe authorities: they tend to accept authority figures
-future oriented: low dogs focus on past, present, and future.  High dogs only think about the future
-uncreative: cognitively simple (can’t view things from multiple angles and perspectives)
-problems in negotiation
-not good at integrative bargaining
-can’t find non-obvious solutions
-in distributive bargaining
-make few concessions
-try to be threatening and use coercion 
-view compromise as defeat
-how to deal with them in negotiation
-try to show your similarity to them
-align yourself with authority figures they respect
-Verbally Aggressive 
-primary way of getting what they want is to insult other people
-how did they get this way?
-they were raised in families with aggressive people
-it works  they get what they want by acting in a verbally aggressive way
-two-faced orientation – they believe that they way they insult others it is not as bad as if it came back to them
-aren’t very good at reasoning and logic
-cognitively simple  substitute intimidation for reasoning
-what are their methods?
-They attack character
-They attack competency
-what to do?
-fighting back does not help because they view it as an overreaction and see themselves as the victim of your aggression 
-instead, maintain composure and stay focused on the issue without losing it.
-Jerky Behavior
-Good Guy/Bad Guy Strategy
-Police interrogation
-Does it matter what the order is?
-Bad guy, then good guy is better than the other way around…Why?
-When the bad guy comes in we lower out level of aspiration and then the good guy capitalizes on low level of aspiration
-You feel so kindly toward the good guy that you feel obligated to reach an agreement
-We are so afraid of the bad guy, we reach an agreement with the good guy to avoid the bad guy coming back
-The more times someone confronts this strategy, the less they are effected by it
-Common Value Strategy
-You pretend to be interested in something to manipulate the other person into giving you what you really want
-Two ways to do this
-Sin of Commission: walk in and lie about your priorities
-Sin of Omission: allow other party to continue their misperception
-Sin of Omission is more common
-Best way to deal with this is to directly confront them
-Sand Bagging Strategy
-Pretend to be in a weakened condition to get concessions from the other side
-People tended to make concessions
-Who is most likely to use this strategy?
-Low machs tend to sandbag more than high machs
-Emotional Display Strategy
-Using emotion to get what you want
-when someone loses it during the negotiation, shouting increases concession making
-Conflict Escalation
-In Process
-Avoid
-Overmatching: they threaten to do something to you and you counter with a worse threat
-What Works
-Reciprocate, but condemn: They threaten you and you respond in kind, but indicate that you did not want to
-You indicate that you are strong and not easily pushed around
-Also indicate that you don’t think this is a good way to continue
-Ignore, but condemn: They threaten you and you don’t reciprocate, but you condemn it
-Doesn’t work as well as reciprocating because you don’t demonstrate strength
-After the Negotiation
-GRIT (Graduated Reduction In Tension) Osgood  Post Cold War
-Lack of Trust: primary problem with the conflict escalation
-A unilateral strategy
-A public official announces the desire to reduce tension
-announces a unilateral concession
-the concession must be specific
-One side could offer to destroy a certain weapons system
-invite verification
+- Machiavellians (Christie & Geiss)
+	- Based on Machiavelli’s The Prince
+	- **maintain emotional control**: don’t get angry, but that doesn’t mean that they can’t act like they’re angry
+	- **low ideological commitment**: don’t believe in any value system or beliefs.  Can change ideologies easily
+	- **low commitment to social morality**: don’t have any sense of ethics… “unencumbered by ethics”
+	- **deceptive**
+	- **do NOT suffer from gross psycho-pathology**: they’re not psychotic or neurotic
+	- Assumed that high machs would be more effective in negotiation…sometimes
+		- Depends what the outcomes look like
+			- When there is no value to winning…no difference between high and low machs
+			- As you increase the outcomes, high machs become more successful negotiators than low machs
+			- => high machs don’t exhibit these personality traits unless the outcome is of value to them
+			- when high machs are paid on commission they are more productive than low machs…if they are paid on a flat rate, low and high machs are equally productive
+	- Northwestern has a higher percentage of Machiavellians than the rest of the world.
+	- There are some occupations that attract high mach => attorneys, sales people, and politicians
+	- If you can show that what you are doing is in their best interest, they will do it
+	- Once you get them on board, watch them because they might not follow through
+	- Some studies say we all have some level of machiavellianism
+- Dogmatism (Rokeach) 
+	- Built onto authoritiism
+	- Close minded, regardless of your political stance
+	- **reject alternative belief systems**: believe there is only one way to look at things
+		- in interviews they will ask questions about beliefs and won’t recommend you if your beliefs are different from theirs
+	- **believe authorities**: they tend to accept authority figures
+	- **future oriented**: low dogs focus on past, present, and future.  High dogs only think about the future
+	- **uncreative**: cognitively simple (can’t view things from multiple angles and perspectives)
+	- problems in negotiation
+		- not good at integrative bargaining
+			- can’t find non-obvious solutions
+		- in distributive bargaining
+			- make few concessions
+			- try to be threatening and use coercion 
+			- view compromise as defeat
+	- how to deal with them in negotiation
+		- try to show your similarity to them
+		- align yourself with authority figures they respect
+- Verbally Aggressive 
+	- primary way of getting what they want is to insult other people
+	- how did they get this way?
+		- they were raised in families with aggressive people
+		- it works => they get what they want by acting in a verbally aggressive way
+		- two-faced orientation – they believe that they way they insult others it is not as bad as if it came back to them
+		- aren’t very good at reasoning and logic
+			- cognitively simple => substitute intimidation for reasoning
+	- what are their methods?
+		- They attack character
+		- They attack competency
+	- what to do?
+		- fighting back does not help because they view it as an overreaction and see themselves as the victim of your aggression 
+		- instead, maintain composure and stay focused on the issue without losing it.
+
+**Jerky Behavior**
+
+- Good Guy/Bad Guy Strategy
+	- Police interrogation
+	- Does it matter what the order is?
+		- Bad guy, then good guy is better than the other way around…Why?
+			- When the bad guy comes in we lower out level of aspiration and then the good guy capitalizes on low level of aspiration
+			- You feel so kindly toward the good guy that you feel obligated to reach an agreement
+			- We are so afraid of the bad guy, we reach an agreement with the good guy to avoid the bad guy coming back
+	- The more times someone confronts this strategy, the less they are effected by it
+- Common Value Strategy
+	- You pretend to be interested in something to manipulate the other person into giving you what you really want
+		- Two ways to do this
+			- Sin of Commission: walk in and lie about your priorities
+			- Sin of Omission: allow other party to continue their misperception
+			- Sin of Omission is more common
+		- Best way to deal with this is to directly confront them
+- Sand Bagging Strategy
+	- Pretend to be in a weakened condition to get concessions from the other side
+		- People tended to make concessions
+		- Who is most likely to use this strategy?
+			- Low machs tend to sandbag more than high machs
+- Emotional Display Strategy
+	- Using emotion to get what you want
+		- when someone loses it during the negotiation, shouting increases concession making
+
+**Conflict Escalation**
+
+- In Process
+	- Avoid
+		- Overmatching: they threaten to do something to you and you counter with a worse threat
+	- What Works
+		- Reciprocate, but condemn: They threaten you and you respond in kind, but indicate that you did not want to
+			- You indicate that you are strong and not easily pushed around
+			- Also indicate that you don’t think this is a good way to continue
+		- Ignore, but condemn: They threaten you and you don’t reciprocate, but you condemn it
+			- Doesn’t work as well as reciprocating because you don’t demonstrate strength
+- After the Negotiation
+	- GRIT (Graduated Reduction In Tension) Osgood => Post Cold War
+		- **Lack of Trust**: primary problem with the conflict escalation
+		- A unilateral strategy
+			- A public official announces the desire to reduce tension
+			- announces a unilateral concession
+			- the concession must be specific
+				- One side could offer to destroy a certain weapons system
+			- invite verification
 it must be carried out on time
 These first five steps are to establish objective credibility
 announce another concession, regardless of what they do
