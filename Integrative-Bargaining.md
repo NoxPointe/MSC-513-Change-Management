@@ -110,6 +110,7 @@ Pruitt(author) – Logrolling
 - I have made concessions on issues that don’t mean much to me, in order to get concessions that matter to me
 	- Grew out of politics
 - Must be multiple issues on the table of different priority
+- One issue is that you're making pragmatic choices instead of showing deep belief
 
 **Non Specific Compensation**
 
