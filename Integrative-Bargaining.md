@@ -213,69 +213,67 @@ Pruitt(author) – Logrolling
 	- works even in low trust situations
 
 ####*flexible rigidity*: flexible as to the means of goal attainment, but rigid as to the goal itself
-rigid rigidity (here’s what I want and here is the only way to achieve it) is bad because you have trouble reaching a goal
-flexible flexibility is bad because you give up to much and walk away with a bad agreement
-How do I stay rigid to my goals?
-Have high goals (levels of aspiration)
-Tend to spend more effort to achieve them
-If you are accountable to a constituency
-If you represent someone else, you can’t automatically lower your goal as easily
-How do you stay flexible in your means of goal attainment?
-Have a problem solving orientation: care about the relationship with the other person
-Think about the future and dealing with this other party again
-Fisher & Ury: Interest Negotiation (Getting to Yes)
-Positional (Soft and Tough) vs. Principaled
-Positional: exchange of offers
-Principaled: interest (what you really want to get out of the negotiation) focused
-Difficult to figure out what an interest is because it keeps changing
-Positional Approach
 
+- rigid rigidity (here’s what I want and here is the only way to achieve it) is bad because you have trouble reaching a goal
+- flexible flexibility is bad because you give up to much and walk away with a bad agreement
+- How do I stay rigid to my goals?
+	- Have high goals (levels of aspiration)
+		- Tend to spend more effort to achieve them
+	- If you are accountable to a constituency
+		- If you represent someone else, you can’t automatically lower your goal as easily
+- How do you stay flexible in your means of goal attainment?
+	- Have a problem solving orientation: care about the relationship with the other person
+	- Think about the future and dealing with this other party again
 
+#### Fisher & Ury: Interest Negotiation (Getting to Yes)
 
+**Positional (Soft and Tough) vs. Principaled**
 
+- Positional: exchange of offers
+- Principaled: interest (what you really want to get out of the negotiation) focused
+	- Difficult to figure out what an interest is because it keeps changing
+    
+**Positional Approach**
 
+- Criticism: “this is unrealistic as hell”
+- What you do if they won’t engage in Principaled Negotiation?
+	- Don’t push back
+	- Identify the tactic, condemn it, but don’t condemn them
+	- Invite criticism
+	- Ask Questions/Paraphrase: they get a chance to correct you and shows that you’ve been listening
+	- develop a BATNA (Best Alternative To Negotiated Agreement)
+		- what can you do if you don’t reach an agreement
+		- don’t use it as a weapon…it is a shield not a sword: it keeps you confident so that the other side can’t intimidate you
 
+**Ury & Brown: Working Together**
 
+- Two fundamental problems that lead to bad relationships
+	- Assumed similarity: we tend to assume others think just like we do
+	- Expect reciprocity: if we do nice things for other people, they will do something nice back
+- What should you do?: Respond in a counter-intuitive way
+	- If they are irrational => you should stay rational
+	- If they misunderstand you => try to understand them
+	- refuse to talk to you => try to talk to them
+	- If they are unreliable => try to be reliable
+	- If they are coercive => remain noncoercive
+	- If they reject you => try to accept them
 
+**Fisher & Brown: Getting Past No: Dealing With Difficult People**
 
+- If you are dealing with an overly competitive person
+	- don’t react: “Go to the balcony” or take a time-out
+- If you are dealing with the other person’s negative emotion 
+	- step to their side and try to discover what their interest must be
+- Other person’s positional behavior (won’t talk about interests just keep making offers)
+	- change the game by reframing it 
+- they are skeptical about your offers
+	- “build them a golden bridge”: get them involved in constructing their offer so that they see that it meets their interests
+- they have more power than you
+	- bring them to their senses, not to their knees
+	- don’t be afraid to consult your BATNA
+    
+**Jerky Personalities**
 
-
-
-
-
-Criticism: “this is unrealistic as hell”
-What you do if they won’t engage in Principaled Negotiation?
-Don’t push back
-Identify the tactic, condmen it, but don’t condemn them
-Invite criticism
-Ask Questions/Paraphrase: they get a chance to correct you and shows that you’ve been listening
-develop a BATNA (Best Alternative To Negotiated Agreement)
-what can you do if you don’t reach an agreement
-don’t use it as a weapon…it is a shield not a sword: it keeps you confident so that the other side can’t intimidate you
-Ury & Brown: Working Together
-Two fundamental problems that lead to bad relationships
-Assumed similarity: we tend to assume others think just like we do
-Expect reciprocity: if we do nice things for other people, they will do something nice back
-What should you do?: Respond in a counter-intuitive way
-If they are irrational  you should stay rational
-If they misunderstand you  try to understand them
-refuse to talk to you  try to talk to them
-If they are unreliable  try to be reliable
-If they are coercive  remain noncoercive
-If they reject you  try to accept them
-Fisher & Brown: Getting Past No: Dealing With Difficult People
-If you are dealing with an overly competitive person
-don’t react: “Go to the balcony” or take a time-out
-If you are dealing with the other person’s negative emotion 
-step to their side and try to discover what their interest must be
-Other person’s positional behavior (won’t talk about interests just keep making offers)
-change the game by reframing it 
-they are skeptical about your offers
-“build them a golden bridge”: get them involved in constructing their offer so that they see that it meets their interests
-they have more power than you
-bring them to their senses, not to their knees
-don’t be afraid to consult your BATNA
- Jerky Personalities
 Machiavellians (Christie & Geiss)
 Based on Machiavelli’s The Prince
 maintain emotional control: don’t get angry, but that doesn’t mean that they can’t act like they’re angry
