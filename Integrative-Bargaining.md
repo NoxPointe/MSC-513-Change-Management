@@ -153,19 +153,21 @@ Pruitt(author) – Logrolling
 - athletes salaries are contingent upon performance.  
 	- I’ll pay you that much if you can prove you are worth that much
 
-**Conditions for integrative bargaining**
+####Conditions for integrative bargaining
 
 - Must be multiple issues on the table
 	- Packages: jobs…salary, benefits, etc.
 - Search Model
-Can prepare before you go into negotiation
-What it generally looks like
-Set a goal (similar to level of aspiration)
-Identify all of the ways the opponent can meet that goal
-Prioritize each of the means by which you can meet the larger goal
-If they reject the package, don’t lower your goal, just shift the weight across the other ways you indentified
-Strategies
-information exchange 
+	- Can prepare before you go into negotiation
+	- What it generally looks like
+		- Set a **goal** (similar to level of aspiration)
+		- Identify all of the ways the opponent can meet that goal
+		- Prioritize each of the means by which you can meet the larger goal
+		- If they reject the package, don’t lower your goal, just shift the weight across the other ways you indentified
+        
+####Strategies
+
+**information exchange**
 it is more important to disclose info about priorities than goals
 it is better to ask questions than to disclose info
 signals to the other side that you care about them
