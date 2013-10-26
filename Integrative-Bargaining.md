@@ -120,6 +120,7 @@ Pruitt(author) – Logrolling
 	- If we realize we have the same priorities we can add some more stuff
 	- Figuring out what to offer
 		- Must provide adequate compensation (i.e. using Foa and Foa’s)
+    - Sets precident
         
 **Bridging**
 
@@ -169,13 +170,14 @@ Pruitt(author) – Logrolling
 ####Strategies
 
 **information exchange**
-it is more important to disclose info about priorities than goals
-it is better to ask questions than to disclose info
-signals to the other side that you care about them
-use of numerical info (as opposed to feelings) is helpful if you are a number person, otherwise it doesn’t make much of a difference
-what do all of these have in common
-explicit: tell specific info about priorities, etc.
-direct and efficient
+
+- it is more important to disclose info about priorities than goals
+- it is better to ask questions than to disclose info
+	- signals to the other side that you care about them
+- use of numerical info (as opposed to feelings) is helpful if you are a number person, otherwise it doesn’t make much of a difference
+- what do all of these have in common
+	- explicit: tell specific info about priorities, etc.
+		- direct and efficient
 doesn’t address what happens if there is low trust
 what to do if there is low trust
 implied: hinting enough to make inferences
