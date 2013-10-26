@@ -244,6 +244,7 @@ Pruitt(author) – Logrolling
 	- develop a BATNA (Best Alternative To Negotiated Agreement)
 		- what can you do if you don’t reach an agreement
 		- don’t use it as a weapon…it is a shield not a sword: it keeps you confident so that the other side can’t intimidate you
+        - shield bashing is not acceptable
 
 **Ury & Brown: Working Together**
 
