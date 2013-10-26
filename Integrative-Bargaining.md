@@ -89,7 +89,7 @@ Pruitt(author) – Logrolling
 		- If an agreement is reached, I could be setting precedent with them or other people in the future
 		- If its set, it reduces my autonomy
 		- How to address this concern
-			- Private
+			- Deal with this in Private
 			- Pledge secrecy
 			- Explicitly deny precedent setting (doesn’t always work)
 			- Joke about the precedent setting
@@ -104,14 +104,18 @@ Pruitt(author) – Logrolling
 			- Make it sound like it is the target’s idea
 			- Negotiate in private
 		- Want to be able to facilitate the target’s ability to say yes
-	- Logrolling
-		- I have made concessions on issues that don’t mean much to me, in order to get concessions that matter to me
-			- Grew out of politics
-		- Must be multiple issues on the table of different priority
-	- Non Specific Compensation
-		- Offer a new item to the negotiation
-			- Often looks like a bribe (which Filley doesn’t like)
-			- Its added after the fact
+        
+**Logrolling**
+
+- I have made concessions on issues that don’t mean much to me, in order to get concessions that matter to me
+	- Grew out of politics
+- Must be multiple issues on the table of different priority
+
+**Non Specific Compensation**
+
+- Offer a new item to the negotiation
+	- Often looks like a bribe (which Filley doesn’t like)
+	- Its added after the fact
 			- If we realize we have the same priorities we can add some more stuff
 			- Figuring out what to offer
 				- Must provide adequate compensation (i.e. using Foa and Foa’s)
@@ -140,10 +144,12 @@ Pruitt(author) – Logrolling
 	- Contingent Agreements: you get something if something specific happens in the future
 		- athletes salaries are contingent upon performance.  
 			- I’ll pay you that much if you can prove you are worth that much
-Conditions for integrative bargaining
-Must be multiple issues on the table
-Packages: jobs…salary, benefits, etc.
-Search Model
+
+**Conditions for integrative bargaining**
+
+- Must be multiple issues on the table
+	- Packages: jobs…salary, benefits, etc.
+- Search Model
 Can prepare before you go into negotiation
 What it generally looks like
 Set a goal (similar to level of aspiration)
