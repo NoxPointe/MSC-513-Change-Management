@@ -100,7 +100,7 @@ Pruitt(author) – Logrolling
 			- Attribute compliance to a pro-social motive
 			- Make the request sound urgent (so big that noone could turn this down and feel weak)
 			- Make the request sound small
-			- Make the request sound normative (people routinely grant it
+			- Make the request sound normative (people routinely grant it)
 			- Make it sound like it is the target’s idea
 			- Negotiate in private
 		- Want to be able to facilitate the target’s ability to say yes
