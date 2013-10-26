@@ -229,11 +229,11 @@ Pruitt(author) – Logrolling
 
 **Positional (Soft and Tough) vs. Principaled**
 
-- Positional: exchange of offers
+- Positional: exchange of offers (distributive bargaining)
 - Principaled: interest (what you really want to get out of the negotiation) focused
 	- Difficult to figure out what an interest is because it keeps changing
     
-**Positional Approach**
+**Principaled Negotiation**
 
 - Criticism: “this is unrealistic as hell”
 - What you do if they won’t engage in Principaled Negotiation?
