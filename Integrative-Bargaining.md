@@ -294,7 +294,7 @@ Pruitt(author) – Logrolling
 	- Once you get them on board, watch them because they might not follow through
 	- Some studies say we all have some level of machiavellianism
 - Dogmatism (Rokeach) 
-	- Built onto authoritiism
+	- Built onto authoritarianism
 	- Close minded, regardless of your political stance
 	- **reject alternative belief systems**: believe there is only one way to look at things
 		- in interviews they will ask questions about beliefs and won’t recommend you if your beliefs are different from theirs
