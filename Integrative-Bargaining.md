@@ -76,6 +76,7 @@ Pruitt(author) – Logrolling
 #### General Characteristics of an Integrative agreement
 - Yields high joint benefits
 	- Both get what we want, or more than we expected
+    - Mutual
 - Solution is Non-Obvious
 	- Essentially the negotiators did not know the outcome in advance
 
