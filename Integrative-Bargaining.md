@@ -98,7 +98,7 @@ Pruitt(author) – Logrolling
 		- How to minimize other party feeling weak
 			- Support that person’s image of strength
 			- Attribute compliance to a pro-social motive
-			- Make the request sound urgent (so big that noone could turn this down and feel weak)
+			- Make the request sound urgent (so big that no one could turn this down and feel weak)
 			- Make the request sound small
 			- Make the request sound normative (people routinely grant it)
 			- Make it sound like it is the target’s idea
