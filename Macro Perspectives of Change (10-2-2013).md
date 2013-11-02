@@ -155,7 +155,7 @@ Organizations go through stages of life.
 	- Stimulus event
 	- Infusion of capital
 	- Expanding tasks
-    - Creates an age lump: a time where you hire a bunch of people who are all similar
+    - Creates an age lump: a time where you hire a bunch of people who are all similar reducing amount of upward mobility
 2. Decelerator effect.
 	- Internal competition for resources
 	- Decrease in talent
