@@ -41,7 +41,7 @@
 
 ## Dialectic
 
-Encourage confrontation and conflict over ideas.
+Encourage confrontation and conflict over ideas. Conflict creates good ideas.
 
 ### thesis vs. anthesis---conflict---synthesis
 
