@@ -290,8 +290,18 @@ Organizations can do something to create control.
         - As time goes on, you will eventually become a conserver.
 - Mixed motive.  Care about self and organization.
 	- Advocates: care about department.
+    	- Advocates for anything in their unit
+        - Make good unit heads
+        - Even-handed internally
+        - Aggressive in resources aquistion
 	- Statesmen: care about organization.
+    	- Identify with the organization over the department
+        - Will sacrifice resources of department for good of the organization
+        - Big picture view
 	- Zealots: care about policy
+    	- Does not identify with organization or department
+        - Identifies with a CAUSE.
+        - Pushes cause relentlessly.
 
 ### Search problems.
 
