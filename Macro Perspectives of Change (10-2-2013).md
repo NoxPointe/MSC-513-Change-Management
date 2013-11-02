@@ -239,11 +239,15 @@ Organizations go through stages of life.
 
 Basically the ebb and flow of chaos and order.
 
-# Teleology
+# Teleology Approach
+
+Organizations can do something to create control.
 
 ## Dissatisfaction—Search/interact—Set-envision goals—Implement goals.
 
-## Downs-Performance gaps.
+## Downs - Performance gaps.
+- Constant comparison of performance goals.
+- Disincentive for meeting goals
 
 ### Causes
 - Inevitable internal turnover.
