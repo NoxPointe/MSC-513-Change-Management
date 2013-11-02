@@ -60,7 +60,7 @@ Encourage confrontation and conflict over ideas.
 	- Desire for aggrandizement
 	- Self-defense (If you don't change, you'll die.)
 
-## Paradox of Group Decision-making
+### Paradox of Group Decision-making
 Anything that increases the quality of decision making decreases the chances of implementation.
 
 1. Task conflict
