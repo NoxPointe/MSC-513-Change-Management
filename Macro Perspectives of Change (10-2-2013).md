@@ -64,7 +64,10 @@ Encourage confrontation and conflict over ideas. Conflict creates good ideas.
 Anything that increases the quality of decision making decreases the chances of implementation.
 
 1. Task conflict
+	- Group spends all of its time arguing about solutions
 2. Emotional conflict
+	- Anger towards other people during the deliberation
+    - Causes people to actively or passively defeat this decision
 3. Solutions
 	- dialectical
 	- devil’s advocate
