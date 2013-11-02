@@ -302,6 +302,8 @@ Organizations can do something to create control.
     	- Does not identify with organization or department
         - Identifies with a CAUSE.
         - Pushes cause relentlessly.
+        - Filled with energy.
+        - Extremely obnoxious.
 
 ### Search problems.
 
