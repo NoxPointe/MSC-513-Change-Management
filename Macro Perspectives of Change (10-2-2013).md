@@ -90,6 +90,13 @@ Key to working in an organization is having your personality fit the organizatio
 	- Work Style
 2. Fit-organization
 	- Culture
+    	- There are six cultures
+        - 1. How innovative
+        - 2. Degree to which the company is detailed
+        - 3. Degree to which it is agressive
+        - 4. Outcome oriented
+        - 5. Supportive
+        - 6. Reward Oriented
 	- Workgroup
 	- Job
 3. Applications.
