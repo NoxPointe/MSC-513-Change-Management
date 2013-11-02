@@ -70,6 +70,9 @@ Anything that increases the quality of decision making decreases the chances of 
     - Causes people to actively or passively defeat this decision
 3. Solutions
 	- dialectical
+    	- The reasons that groups don't work in open conflict is a perception of coteries.
+        - Define subgroups with specific tasks, breaking natural coteries.
+        - Assumes that subgroups can reach a decision easier.
 	- devil’s advocate
 	- consensus
 
