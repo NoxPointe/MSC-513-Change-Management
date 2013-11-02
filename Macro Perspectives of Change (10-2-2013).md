@@ -159,9 +159,16 @@ Organizations go through stages of life.
 2. Decelerator effect.
 	- Competition for resources
 	- Decrease in talent
+    	- As you hire more people, you hire bodies instead of talent
+        - Stay small.
 	- Hard to replicate initial success.
 3. Result
 	- Death
+    	- Blinding: Not paying attention to signs that things aren't going well
+        - Inaction: Not acting on signs that things are going wrong
+        - Faulty Action: Making things worse
+        - Crisis: Blood in the hallways
+        - Death
 	- Reinvention
 
 ## Gersick
