@@ -39,15 +39,17 @@
     - Must hire the right kind of employees
     - Requires an incredible amount of effort
 
-# Dialectic
+## Dialectic
 
-## thesis vs. anthesis---conflict---synthesis
+Encourage confrontation and conflict over ideas.
+
+### thesis vs. anthesis---conflict---synthesis
 
 1. Diversity
 2. Confrontation
 3. Conflict
 
-## Downs
+### Downs
 
 1. Forces of inertia
 	- Sunk costs
