@@ -198,26 +198,42 @@ Organizations go through stages of life.
 		- Nonlinear rather than linear.
 		- Failure with success.
 		- Central areas first then branch out
+        	- This leads to success
+            - Jail theory
 
 ## Geiner, Life phases of an organization.
 
 ### Phase 1 
+
 - Evolution: Growth through creativity.
+	- Disorganized and fun.
 - Revolution: Crisis of leadership
+	- No one knows how to run a company. Someone must take charge.
 
 ### Phase 2
+
 - Evolution: Growth through direction.
+	- Someone starts leading.
 - Revolution: Crisis of autonomy.
+	- Pushback from leadership. Coup to throw out the leader.
 
 ### Phase 3
+
 - Evolution: Growth through delegation.
+	- Start delegating tasks and decisions.
+    - People do whatever they want
 - Revolution: Crisis of control.
+	- Reaction to inefficiency and chaos.
 
 ### Phase 4
+
 - Evolution: Growth through coordination.
+	- Control by committees: BUREAUCRACY
 - Revolution: Crisis of red tape.
+	- Goodness, everything takes forever.
 
 ### Phase 5
+
 - Evolution: Growth through collaboration.
 - Revolution: Crisis of ????
 
