@@ -101,68 +101,63 @@ Anything that increases the quality of decision making decreases the chances of 
 
 ## Geiner, Life phases of an organization.
 
-1. Phase 1: Evolution Growth through creativity.
-2. Phase 1: Revolution: Crisis of leadership
-3. Phase 2: Evolution: Growth through direction.
-4. Phase 2: Revolution: Crisis of autonomy.
-5. Phase 3: Evolution: Growth through delegation.
-6. Phase 3: Revolution: Crisis of control.
-7. Phase 4: Evolution: Growth through coordination.
-8. Phase 4: Revolution: Crisis of red tape.
-9. Phase 5: Evolution: Growth through collaboration.
-10. Phase 5: Revolution: Crisis of ????
-IV. Teleology
+### Phase 1 
+- Evolution: Growth through creativity.
+- Revolution: Crisis of leadership
 
-A. Dissatisfaction—Search/interact—Set-envision goals—Implement goals.
+### Phase 2
+- Evolution: Growth through direction.
+- Revolution: Crisis of autonomy.
 
-B. Downs-Performance gaps.
+### Phase 3
+- Evolution: Growth through delegation.
+- Revolution: Crisis of control.
 
-1. Causes
+### Phase 4
+- Evolution: Growth through coordination.
+- Revolution: Crisis of red tape.
 
-a. Inevitable internal turnover.
-b. Internal technological change.
-c. Repercussions of own performance.
-d. External factors.
+### Phase 5
+- Evolution: Growth through collaboration.
+- Revolution: Crisis of ????
 
-2. How organizations react.
+# Teleology
 
-a. Do nothing.
-b. Conform to view of stakeholders
-c. Deny there is no gap.
-d. Convince others to change expectations.
-e. Change stakeholders.
+## Dissatisfaction—Search/interact—Set-envision goals—Implement goals.
 
-3. Biases
+## Downs-Performance gaps.
 
-a. Screen out alternatives that hurt self.
-b. Give more weight to alternatives that benefit self.
-c. Won’t totally comply with all changes.
-d. Distort information to look good.
+### Causes
+- Inevitable internal turnover.
+- Internal technological change.
+- Repercussions of own performance.
+- External factors.
 
-4. Types of managers.
+### How organizations react.
+- Do nothing.
+- Conform to view of stakeholders
+- Deny there is no gap.
+- Convince others to change expectations.
+- Change stakeholders.
 
-a. Self-interested.
+### Biases
+- Screen out alternatives that hurt self.
+- Give more weight to alternatives that benefit self.
+- Won’t totally comply with all changes.
+- Distort information to look good.
 
-1). Climbers-maximize own power, income and prestige.
-2). Conservers-maintain own power, income and presige.
+### Types of managers.
+- Self-interested.
+	- Climbers-maximize own power, income and prestige.
+	- Conservers-maintain own power, income and presige.
+- Mixed motive.  Care about self and organization.
+	- Advocates-care about department.
+	- Statesmen-care about organization.
+	- Zealots-care about policy
 
-b. Mixed motive.  Care about self and organization.
-
-1). Advocates-care about department.
-2). Statesmen-care about organization.
-3). Zealots-care about policy
-
-5. Search problems.
-
-a. time pressure
-
-1). Consider minimal alternatives
-2). Biases become greater.
-3). Restrict participants.
-
-                                          b.  Costs.   
-
-
-
-
-                 
+### Search problems.
+- time pressure
+	- Consider minimal alternatives
+	- Biases become greater.
+	- Restrict participants.
+- Costs
