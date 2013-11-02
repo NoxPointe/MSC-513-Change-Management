@@ -313,4 +313,6 @@ If you have to create change, you have engage in a search.
 	- Consider minimal alternatives
 	- Biases become greater.
 	- Restrict participants.
+    - Kills Change
 - Costs
+	- time spent searching is time not changing
