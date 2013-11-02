@@ -170,17 +170,22 @@ Organizations go through stages of life.
         - Crisis: Blood in the hallways
         - Death
 	- Reinvention
+    	- Find a new cause
+    - Mergers and acquistions
+    	- Bad on employees
+        - Culture clash
 
 ## Gersick
 
 1. Equilibrium change.
 	- Maintaining/carrying out functions
 	- Superficial adjustment
-	- Forces to resist change.
-		- Cognition-know one way to look at things.
-		- Motivation-fear of change.
-		-  Obligations to stakeholders
-		-  Benefits.
+    - This works because it focuses on small changes
+	- Forces to resist bigger change.
+		- Cognition: know one way to look at things.
+		- Motivation: fear of change.
+		- Obligations to stakeholders
+		- Benefits.
 2. Revolutionary change.
 	- Change in the deep structure of an organization.  Culture.
 	- Causes
