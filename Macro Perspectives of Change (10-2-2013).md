@@ -237,6 +237,8 @@ Organizations go through stages of life.
 - Evolution: Growth through collaboration.
 - Revolution: Crisis of ????
 
+Basically the ebb and flow of chaos and order.
+
 # Teleology
 
 ## Dissatisfaction—Search/interact—Set-envision goals—Implement goals.
