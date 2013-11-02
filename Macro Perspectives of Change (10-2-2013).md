@@ -82,6 +82,8 @@ Anything that increases the quality of decision making decreases the chances of 
 
 ## Attraction-selection-attrition.
 
+Key to working in an organization is having your personality fit the organizations.
+
 1. Fit-employee
 	- Personality
 	- Value
