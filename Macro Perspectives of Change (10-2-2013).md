@@ -118,6 +118,21 @@ Key to working in an organization is having your personality fit the organizatio
 5. Attrition.
 6. Effects:  Similarity
 
+**Strategy for getting a job:**
+
+- Opinion Conformity does not work.
+- Complimentary does not work.
+- Credentials does work.
+- Likeability (Smiling) does not work.
+- Fit is more effective than any other strategy.
+
+**Problem**
+
+- People lie
+	- Slight image creation (enhancing fit)
+    - Extensive image creation (build stories by arranging work experiences, invent things in your background)
+    - Image protection (omitting bad things from your background or masking them)
+
 # Life cycle
 
 ## Downs
