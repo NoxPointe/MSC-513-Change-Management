@@ -250,25 +250,30 @@ Organizations can do something to create control.
 - Disincentive for meeting goals
 
 ### Causes
+
 - Inevitable internal turnover.
 - Internal technological change.
 - Repercussions of own performance.
 - External factors.
 
 ### How organizations react.
+
 - Do nothing.
+	- Often the scenario when knowledge is only internal
 - Conform to view of stakeholders
-- Deny there is no gap.
+- Deny there is a gap.
 - Convince others to change expectations.
 - Change stakeholders.
 
 ### Biases
+
 - Screen out alternatives that hurt self.
 - Give more weight to alternatives that benefit self.
 - Won’t totally comply with all changes.
 - Distort information to look good.
 
 ### Types of managers.
+
 - Self-interested.
 	- Climbers-maximize own power, income and prestige.
 	- Conservers-maintain own power, income and presige.
@@ -278,6 +283,7 @@ Organizations can do something to create control.
 	- Zealots-care about policy
 
 ### Search problems.
+
 - time pressure
 	- Consider minimal alternatives
 	- Biases become greater.
