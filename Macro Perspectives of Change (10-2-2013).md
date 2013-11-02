@@ -20,10 +20,24 @@
     - happens after major successes
 
 ## Kotter and Heskett, Cultural approach
- 
+
+### Three Types of Cultures
+
 1. Strong culture
+	- Has existed in the US for a long time
+    - Generally has a founder with an uncanny insight into the market
+    - Imposed philisophical outlook on the company
+    - Works as long as the market doesn't change
 2. Strategically appropriate culture
+	- Partially market driven 
+    - People who founded the company did market research
+    - Stopped doing market research after start
+    - Works as long as the market doesn't change
 3. Adaptive culture
+	- Constant Change
+    - Constantly assessing the market and making changes based on that
+    - Must hire the right kind of employees
+    - Requires an incredible amount of effort
 
 # Dialectic
 
