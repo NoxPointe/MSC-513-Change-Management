@@ -10,8 +10,14 @@
 
 ## Downs
 
-1. Shrinking violet syndrome-defensive posture to hold market
-2. Superman syndrome-infringe on other tasks
+1. Shrinking violet syndrome
+	- defensive posture to hold market
+    - after encountering a personal failure
+2. Superman syndrome
+	- infringe on other tasks
+    - leads to shrinking violet
+    - idea that company can do anything
+    - happens after major successes
 
 ## Kotter and Heskett, Cultural approach
  
