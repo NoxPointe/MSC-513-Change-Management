@@ -307,6 +307,8 @@ Organizations can do something to create control.
 
 ### Search problems.
 
+If you have to create change, you have engage in a search.
+
 - time pressure
 	- Consider minimal alternatives
 	- Biases become greater.
