@@ -86,21 +86,35 @@ Key to working in an organization is having your personality fit the organizatio
 
 1. Fit-employee
 	- Personality
+    	- Innovative: Open Minded (but not highly conscientious)
+        - Detail Oriented: Highly Conscientious
+        - Aggressive: Extraverts but not open, attracts disagreeable people
+        - Outcome-oriented: Conscientious
+        - Supportive: Agreeable
+        - Reward Oriented: Disagreeable
+        - Decisive: Disagreeable
+        - Team Oriented: Extraverts and discourage conscientious people
 	- Value
 	- Work Style
 2. Fit-organization
 	- Culture
-    	- There are six cultures
-        - 1. How innovative
-        - 2. Degree to which the company is detailed
-        - 3. Degree to which it is agressive
+    	- There are six (eight?) cultures
+        - 1. Innovative
+        - 2. Detailed
+        - 3. Agressive
         - 4. Outcome oriented
         - 5. Supportive
         - 6. Reward Oriented
+        - 7. Decisive
+        - 8. Team oriented
 	- Workgroup
 	- Job
 3. Applications.
 4. Recruitment
+	- Recruiters can identify whether or not you will fit
+    - If you are likeable, they will be biased towards you
+    - If you have excellent credentials, they will be biased towards you
+    - If you are attractive, they will be biased towards you
 5. Attrition.
 6. Effects:  Similarity
 
