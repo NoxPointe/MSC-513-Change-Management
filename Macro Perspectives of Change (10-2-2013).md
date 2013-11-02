@@ -1,128 +1,105 @@
-Macro perspectives of change.
+# Evolutionary approaches.
 
-I. Evolutionary approaches.
+## variation---selection---retention
 
+- population scarcity
+- environmental selection
+- competition.
 
-A. variation---selection---retention
-
-population scarcity
-environmental selection
-competition.
-
-B. Downs
+## Downs
 
 1. Shrinking violet syndrome-defensive posture to hold market
 2. Superman syndrome-infringe on other tasks
 
-C. Kotter and Heskett, Cultural approach
+## Kotter and Heskett, Cultural approach
  
 1. Strong culture
 2. Strategically appropriate culture
 3. Adaptive culture
 
-II. Dialectic
+# Dialectic
 
-A. thesis vs. anthesis---conflict---synthesis
-
+## thesis vs. anthesis---conflict---synthesis
 
 1. Diversity
 2. Confrontation
 3. Conflict
 
-B. Downs
+## Downs
 
 1. Forces of inertia
-
-a. Sunk costs
-b. Size/cost of innovation
-c. Self-interest
-
+	- Sunk costs
+	- Size/cost of innovation
+	- Self-interest
 2. Force of change
+	- Desire to a good job.
+	- Desire for aggrandizement
+	- Self-defense
 
-a. Desire to a good job.
-b. Desire for aggrandizement
-c. Self-defense
-
-C. Paradox of Group Decision-making-Anything that increases the quality of decision making decreases the chances of implementation.
+## Paradox of Group Decision-making
+Anything that increases the quality of decision making decreases the chances of implementation.
 
 1. Task conflict
 2. Emotional conflict
 3. Solutions
+	- dialectical
+	- devil’s advocate
+	- consensus
 
-a. dialectical
-b. devil’s advocate
-c. consensus
-
-D. Attraction-selection-attrition.
+## Attraction-selection-attrition.
 
 1. Fit-employee
-
-a. Personality
-b. Value
-c. Work Style
-
+	- Personality
+	- Value
+	- Work Style
 2. Fit-organization
-
-a. Culture
-b. Workgroup
-c. Job
-
+	- Culture
+	- Workgroup
+	- Job
 3. Applications.
 4. Recruitment
 5. Attrition.
 6. Effects:  Similarity
 
-III. Life cycle
+# Life cycle
 
-A. Downs
+## Downs
 
 1. Growth accelerator effect.
-
-a. Stimulus event
-b. Infusion of capital
-c. Adding personnel
-d. Expanding tasks
-
+	- Stimulus event
+	- Infusion of capital
+	- Expanding tasks
 2. Decelerator effect.
-
-a. Internal competition for resources
-b. Decrease in talent
-c. Hard to replicate initial success.
+	- Internal competition for resources
+	- Decrease in talent
+	- Hard to replicate initial success.
 3. Result
+	- Death
+	- Reinvention
 
-a. Death
-b. Reinvention
-
-B. Gersick
+## Gersick
 
 1. Equilibrium change.
-
-a. Maintaining/carrying out functions
-b. Superficial adjustment
-c. Forces to resist change.
-
-1). Cognition-know one way to look at things.
-2). Motivation-fear of change.
-3).  Obligations to stakeholders
-4).  Benefits.
-
+	- Maintaining/carrying out functions
+	- Superficial adjustment
+	- Forces to resist change.
+		- Cognition-know one way to look at things.
+		- Motivation-fear of change.
+		-  Obligations to stakeholders
+		-  Benefits.
 2. Revolutionary change.
-                
-a. Change in the deep structure of an organization.  Culture.
-b. Causes
-
-1). Internal changes
-2). External changes.
-3). Crises/failure/time pressure.
-
+	- Change in the deep structure of an organization.  Culture.
+	- Causes
+		- Internal changes
+		- External changes.
+		- Crises/failure/time pressure.
 3. Patterns of revolutionary change.
+	- Slow rather than fast.
+	- Nonlinear rather than linear.
+	- Failure with success.
+	- Central areas first then branch out
 
-a. Slow rather than fast.
-b. Nonlinear rather than linear.
-c. Failure with success.
-d. Central areas first then branch out
-
-C. Geiner, Life phases of an organization.
+## Geiner, Life phases of an organization.
 
 1. Phase 1: Evolution Growth through creativity.
 2. Phase 1: Revolution: Crisis of leadership
