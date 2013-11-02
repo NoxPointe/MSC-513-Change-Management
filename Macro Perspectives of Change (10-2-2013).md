@@ -147,12 +147,15 @@ Key to working in an organization is having your personality fit the organizatio
 
 # Life cycle perspectives
 
+Organizations go through stages of life.
+
 ## Downs
 
 1. Growth accelerator effect.
 	- Stimulus event
 	- Infusion of capital
 	- Expanding tasks
+    - Creates an age lump: a time where you hire a bunch of people who are all similar
 2. Decelerator effect.
 	- Internal competition for resources
 	- Decrease in talent
