@@ -145,7 +145,7 @@ Key to working in an organization is having your personality fit the organizatio
 - Low job fit doesn't predict quitting
 - Hiring practices reinforce inertia
 
-# Life cycle
+# Life cycle perspectives
 
 ## Downs
 
