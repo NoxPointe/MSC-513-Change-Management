@@ -261,26 +261,37 @@ Organizations can do something to create control.
 - Do nothing.
 	- Often the scenario when knowledge is only internal
 - Conform to view of stakeholders
-- Deny there is a gap.
+- Deny there is a gap. Lie.
 - Convince others to change expectations.
 - Change stakeholders.
 
-### Biases
+### Biases for solutions
 
 - Screen out alternatives that hurt self.
 - Give more weight to alternatives that benefit self.
 - Won’t totally comply with all changes.
 - Distort information to look good.
+- Biases stronger in some people than others.
 
 ### Types of managers.
 
 - Self-interested.
-	- Climbers-maximize own power, income and prestige.
-	- Conservers-maintain own power, income and presige.
+	- Climbers: maximize own power, income and prestige.
+    	- Press for early promotion
+        - First tactic is aggrandizing
+        - Next tactic to jump ship
+        - Change oriented people
+        - increases decelleration effect
+	- Conservers: maintain own power, income and presige.
+    	- Often climbers who rose to the level where they can't climb any more
+        - Middle Management
+        - Often Middle Aged
+        - Often part of an age lump
+        - As time goes on, you will eventually become a conserver.
 - Mixed motive.  Care about self and organization.
-	- Advocates-care about department.
-	- Statesmen-care about organization.
-	- Zealots-care about policy
+	- Advocates: care about department.
+	- Statesmen: care about organization.
+	- Zealots: care about policy
 
 ### Search problems.
 
