@@ -73,7 +73,11 @@ Anything that increases the quality of decision making decreases the chances of 
     	- The reasons that groups don't work in open conflict is a perception of coteries.
         - Define subgroups with specific tasks, breaking natural coteries.
         - Assumes that subgroups can reach a decision easier.
+        - Doesn't work.
 	- devil’s advocate
+    	- Assign someone specifically to be a critic
+        - Removes it from being personal
+        - Only kind of works
 	- consensus
 
 ## Attraction-selection-attrition.
