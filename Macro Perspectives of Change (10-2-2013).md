@@ -132,6 +132,18 @@ Key to working in an organization is having your personality fit the organizatio
 	- Slight image creation (enhancing fit)
     - Extensive image creation (build stories by arranging work experiences, invent things in your background)
     - Image protection (omitting bad things from your background or masking them)
+    - Engratiation (make the interviewer feel better)
+    - Done by high self-monitors and high-machavellians.
+    - Extensive image creation works really well.
+    - Image protection hurts your chances.
+    - Asking follow-up questions of the applicant enhances the abilities of the liars.
+    
+**Overall Research**
+
+- Job fit reduces stress
+- Job fit increases job satisfaction
+- Low job fit doesn't predict quitting
+- Hiring practices reinforce inertia
 
 # Life cycle
 
