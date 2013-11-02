@@ -5,7 +5,7 @@
 ## variation---selection---retention
 
 - population scarcity
-- environmental selection
+- environmental selection: some things are going to fail.
 - competition.
 
 ## Downs
