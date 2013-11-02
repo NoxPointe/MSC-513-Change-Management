@@ -188,15 +188,16 @@ Organizations go through stages of life.
 		- Benefits.
 2. Revolutionary change.
 	- Change in the deep structure of an organization.  Culture.
+    - Rarely occurs.
 	- Causes
 		- Internal changes
 		- External changes.
-		- Crises/failure/time pressure.
-3. Patterns of revolutionary change.
-	- Slow rather than fast.
-	- Nonlinear rather than linear.
-	- Failure with success.
-	- Central areas first then branch out
+		- Usually due to Crises/failure/time pressure.
+	- Patterns of revolutionary change.
+		- Slow rather than fast.
+		- Nonlinear rather than linear.
+		- Failure with success.
+		- Central areas first then branch out
 
 ## Geiner, Life phases of an organization.
 
