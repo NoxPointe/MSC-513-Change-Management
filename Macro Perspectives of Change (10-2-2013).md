@@ -58,7 +58,7 @@ Encourage confrontation and conflict over ideas.
 2. Force of change
 	- Desire to a good job.
 	- Desire for aggrandizement
-	- Self-defense
+	- Self-defense (If you don't change, you'll die.)
 
 ## Paradox of Group Decision-making
 Anything that increases the quality of decision making decreases the chances of implementation.
