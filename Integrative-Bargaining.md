@@ -148,7 +148,7 @@ Pruitt(author) – Logrolling
 	- Remove the chance of precedent
 		- Similar to cost-cutting strategy
 	- Remove someone from the decision process (i.e. if they are strongly attached to a problematic issue)
-		- Professor who had trained noone to take his place and decided to retire
+		- Professor who had trained no one to take his place and decided to retire
         
 **Contingent Agreements: you get something if something specific happens in the future**
 
